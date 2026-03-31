@@ -2,7 +2,7 @@
 using namespace std;
 // repo : MergeSort_0118
 
-int arr[20];
+int arr[20], B[20];
 int n;
 
 void input() {
